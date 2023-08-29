@@ -25,25 +25,22 @@ public class CreateAccountTests extends TestBase{
 
 
     }
+
     @Test
-    public void newUserRegistrationPositiveTest(){
-        // enter email  CSS - [placeholder='Email']
+    public void newUserRegistrationPositiveTest() {
+        //enter email - [placeholder='Email'] - css
         driver.findElement(By.cssSelector("[placeholder='Email']")).click();
         driver.findElement(By.cssSelector("[placeholder='Email']")).clear();
         driver.findElement(By.cssSelector("[placeholder='Email']")).sendKeys("orxan@mail.ru");
-
-        //enter password   CSS - [placeholder='Password']
+        //enter password - [placeholder='Password'] - css
         driver.findElement(By.cssSelector("[placeholder='Password']")).click();
         driver.findElement(By.cssSelector("[placeholder='Password']")).clear();
         driver.findElement(By.cssSelector("[placeholder='Password']")).sendKeys("Orxan123$");
-
-        //click on Registration button  Xpath - //button[(text(),'Registration')]
+        //click on Registration button - //button[text()='Registration'] - xpath
         driver.findElement(By.xpath("//button[text()='Registration']")).click();
-        //driver.findElement(By.xpath("//button[(text(),'Registration')]")).clear();
-        //assert Sign out button displayed   Xpath - //button[contains(.,'Sign Out')]
+        //assert Sign out button displayed - //button[contains(.,'Sign Out')] - xpath
         Assert.assertTrue(isElementPresent2(By.xpath("//button[contains(.,'Sign Out')]")));
-
     }
-
-
 }
+
+
