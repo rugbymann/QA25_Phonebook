@@ -1,0 +1,19 @@
+326  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/orxanaliyev/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+3944 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Le', surname='Chi', phone='1234567890'}]
+6728 [main] ERROR org.ait.phonebook.TestBase -- Failed: addNewContactPositiveFromDataProviderWithCSVTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694453086.png
+6729 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+6729 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+6730 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Anar', surname='Aliyev', phone='1234567890'}]
+30632 [main] ERROR org.ait.phonebook.TestBase -- Failed: addNewContactPositiveFromDataProviderWithCSVTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694453110.png
+30633 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+30633 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+30633 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Fernandinho', surname='De Souza', phone='1234567890'}]
+54419 [main] ERROR org.ait.phonebook.TestBase -- Failed: addNewContactPositiveFromDataProviderWithCSVTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694453134.png
+54419 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+54419 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+54420 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Mamu-ka', surname='Gorgodze', phone='1234567890'}]
+78653 [main] ERROR org.ait.phonebook.TestBase -- Failed: addNewContactPositiveFromDataProviderWithCSVTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694453158.png
+78654 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+78654 [main] INFO  org.ait.phonebook.TestBase -- ******************************************

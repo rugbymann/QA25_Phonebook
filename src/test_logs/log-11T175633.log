@@ -1,0 +1,7 @@
+303  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/orxanaliyev/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+4492 [main] INFO  org.ait.phonebook.TestBase -- Start test loginPositiveTest
+27376 [main] ERROR org.ait.phonebook.TestBase -- Failed: loginPositiveTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694447821.png
+27377 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+27377 [main] INFO  org.ait.phonebook.TestBase -- ******************************************

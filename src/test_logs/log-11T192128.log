@@ -1,0 +1,19 @@
+319  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/orxanaliyev/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+4412 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [com.ait.phonebook.models.Contact@4c36250e]
+6922 [main] ERROR org.ait.phonebook.TestBase -- Failed: addNewContactPositiveFromDataProviderWithCSVTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694452895.png
+6922 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+6922 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+6923 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [com.ait.phonebook.models.Contact@28782602]
+30722 [main] ERROR org.ait.phonebook.TestBase -- Failed: addNewContactPositiveFromDataProviderWithCSVTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694452919.png
+30724 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+30724 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+30724 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [com.ait.phonebook.models.Contact@5c645b43]
+54571 [main] ERROR org.ait.phonebook.TestBase -- Failed: addNewContactPositiveFromDataProviderWithCSVTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694452943.png
+54571 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+54571 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+54572 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [com.ait.phonebook.models.Contact@5176d279]
+78657 [main] ERROR org.ait.phonebook.TestBase -- Failed: addNewContactPositiveFromDataProviderWithCSVTestScreenshot: /Users/orxanaliyev/Documents/JavaProgramming/Projects/Test Projects/QA25_PhoneBook/screenshots/screen 1694452967.png
+78658 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+78658 [main] INFO  org.ait.phonebook.TestBase -- ******************************************

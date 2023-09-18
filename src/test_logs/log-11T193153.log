@@ -1,0 +1,19 @@
+312  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/orxanaliyev/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+3761 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Le', surname='Chi', phone='1234567890'}]
+5717 [main] INFO  org.ait.phonebook.TestBase -- Passed: addNewContactPositiveFromDataProviderWithCSVTest
+5717 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+5717 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+5717 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Anar', surname='Aliyev', phone='1234567890'}]
+29046 [main] INFO  org.ait.phonebook.TestBase -- Passed: addNewContactPositiveFromDataProviderWithCSVTest
+29046 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+29046 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+29047 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Fernandinho', surname='De Souza', phone='1234567890'}]
+52441 [main] INFO  org.ait.phonebook.TestBase -- Passed: addNewContactPositiveFromDataProviderWithCSVTest
+52442 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+52442 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+52443 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTest with data: [Contact{name='Mamu-ka', surname='Gorgodze', phone='1234567890'}]
+76049 [main] INFO  org.ait.phonebook.TestBase -- Passed: addNewContactPositiveFromDataProviderWithCSVTest
+76049 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+76049 [main] INFO  org.ait.phonebook.TestBase -- ******************************************

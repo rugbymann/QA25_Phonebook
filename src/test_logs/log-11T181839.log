@@ -1,0 +1,15 @@
+346  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  /Users/orxanaliyev/Library/Caches/JetBrains/IdeaIC2022.3/temp-testng-customsuite.xml
+
+4076 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest
+6029 [main] INFO  org.ait.phonebook.TestBase -- Passed: addNewContactPositiveFromDataProviderTest
+6030 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+6030 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+6030 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest
+29518 [main] INFO  org.ait.phonebook.TestBase -- Passed: addNewContactPositiveFromDataProviderTest
+29518 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+29518 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
+29519 [main] INFO  org.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderTest
+52884 [main] INFO  org.ait.phonebook.TestBase -- Passed: addNewContactPositiveFromDataProviderTest
+52884 [main] INFO  org.ait.phonebook.TestBase -- Stop test 
+52885 [main] INFO  org.ait.phonebook.TestBase -- ******************************************
